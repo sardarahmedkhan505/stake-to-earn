@@ -1,3 +1,3 @@
 # stake-to-earn
 ## Staking Algorithm
-Rewards tokens = (Amount staked by a User/totol staked tokens on the platform) x (Reward Rate)
+Reward tokens = (Amount staked by a User/total staked tokens on the platform) x (Reward Rate)
